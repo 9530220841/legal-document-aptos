@@ -1,0 +1,15 @@
+[package]
+name = "legal"
+version = "1.0.0"
+authors = []
+
+[addresses]
+LegalDocument = "0x3480ad0d06c8ae0bba7f531d7244cf9c629a3b83d51141e494caea01633e7598"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
