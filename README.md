@@ -37,6 +37,9 @@ The **LegalDocument** smart contract can be expanded and enhanced in several way
 
 0x30420eB8a3121dd409fb9A5EEB1eE63D20A396d5fe899dd3726ccd00d0290c4b
 
+![image](https://github.com/user-attachments/assets/d131b98e-4e10-4b43-9e63-5e3af5c185e1)
+
+
 
 
 
